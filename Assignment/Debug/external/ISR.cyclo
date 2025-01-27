@@ -1,0 +1,4 @@
+../external/ISR.c:16:6:switchState	5
+../external/ISR.c:53:40:TIM3_IRQHandler	1
+../external/ISR.c:64:41:TIM5_IRQHandler	5
+../external/ISR.c:84:40:EXTI15_10_IRQHandler	1

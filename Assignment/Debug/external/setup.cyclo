@@ -1,0 +1,5 @@
+../external/CMSIS/core_cm4.h:1688:22:__NVIC_EnableIRQ	2
+../external/setup.c:18:6:setupGPIO	1
+../external/setup.c:33:6:setupEXTI	1
+../external/setup.c:45:6:setupClocks	1
+../external/setup.c:52:6:setupTimers	1

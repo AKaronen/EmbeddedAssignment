@@ -1,0 +1,5 @@
+../external/tasks.c:22:6:initTasks	2
+../external/tasks.c:65:6:disableTask	3
+../external/tasks.c:72:6:enableTask	3
+../external/tasks.c:79:6:setTaskExecuted	3
+../external/tasks.c:87:6:checkPriority	3

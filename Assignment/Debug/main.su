@@ -1,0 +1,15 @@
+../external/CMSIS/core_cm4.h:1688:22:__NVIC_EnableIRQ	16	static
+../external/CMSIS/core_cm4.h:1724:22:__NVIC_DisableIRQ	16	static,ignoring_inline_asm
+../external/CMSIS/core_cm4.h:1743:26:__NVIC_GetPendingIRQ	16	static
+../external/CMSIS/core_cm4.h:1777:22:__NVIC_ClearPendingIRQ	16	static
+../main.c:28:6:resetModulation	16	static
+../main.c:37:6:idle	8	static
+../main.c:42:6:modulate	8	static
+../main.c:53:6:configurate	8	static
+../main.c:61:5:PassingSemaphore	16	static
+../main.c:70:5:ReleaseSemaphore	16	static
+../main.c:88:6:askForParams	16	static
+../main.c:134:6:printInfo	32	static
+../main.c:158:6:LoopTasks	16	static
+../main.c:206:6:setup	8	static
+../main.c:216:5:main	8	static

@@ -1,0 +1,15 @@
+../external/CMSIS/core_cm4.h:1688:22:__NVIC_EnableIRQ	2
+../external/CMSIS/core_cm4.h:1724:22:__NVIC_DisableIRQ	2
+../external/CMSIS/core_cm4.h:1743:26:__NVIC_GetPendingIRQ	2
+../external/CMSIS/core_cm4.h:1777:22:__NVIC_ClearPendingIRQ	2
+../main.c:28:6:resetModulation	2
+../main.c:37:6:idle	1
+../main.c:42:6:modulate	2
+../main.c:53:6:configurate	1
+../main.c:61:5:PassingSemaphore	2
+../main.c:70:5:ReleaseSemaphore	2
+../main.c:88:6:askForParams	7
+../main.c:134:6:printInfo	4
+../main.c:158:6:LoopTasks	10
+../main.c:206:6:setup	1
+../main.c:216:5:main	1
