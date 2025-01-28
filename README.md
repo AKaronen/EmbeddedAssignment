@@ -8,5 +8,5 @@ A repository for Embedded systems programming course assignment done with NUCLEO
     - **ISR.c**: Interrupt routines
     - **PI_controller.c**: Routines for running the PI-controller/converter model
     - **setup.c**: Routines for setting up different parts of the device
-    - **task.c**: Routines for the task scheduling
+    - **tasks.c**: Routines for the task scheduling
     - All relevant header-files for the above files.
